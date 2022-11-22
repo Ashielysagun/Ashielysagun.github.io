@@ -12,8 +12,6 @@ you can call me Renz,Ashley,Ash,Eunice
 ![alt text](https://i.pinimg.com/originals/c3/e9/93/c3e993225e1a9437ed8ef53f9149f6f2.jpg)
 
 
-![alt text]()
-
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |--------|---------|-----------|----------|--------|
 |Cherry|Strawberry |Avocado|Grapes| Mango | 
