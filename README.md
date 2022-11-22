@@ -1,4 +1,4 @@
-+# Welcome to Ashielysagun.github.io
+# Welcome to Ashielysagun.github.io
 ---
 >My name is Renz Ashley Eunice
 you can call me Renz,Ashley,Ash,Eunice
@@ -29,4 +29,3 @@ you can call me Renz,Ashley,Ash,Eunice
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SctrVF37GAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://open.spotify.com/album/40fdlaasbn2DweDx2yGGNO?si=zQ4-poA0Q_qut6P2PqJrWA
