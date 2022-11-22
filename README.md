@@ -28,3 +28,5 @@ you can call me Renz,Ashley,Ash,Eunice
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eLQMGYHVJ_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SctrVF37GAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://open.spotify.com/album/40fdlaasbn2DweDx2yGGNO?si=zQ4-poA0Q_qut6P2PqJrWA
